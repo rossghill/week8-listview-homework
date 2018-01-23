@@ -16,7 +16,7 @@ public class TopBeers {
         beerlist.add(new Beer(2, "Hop House 13"));
         beerlist.add(new Beer(3, "McEwans 80-"));
         beerlist.add(new Beer(4, "Coors Light"));
-        beerlist.add(new Beer(5, "Punk IPA"));
+        beerlist.add(new Beer(5, "Little Creatures Pale Ale"));
         beerlist.add(new Beer(6, "Tennents Lager"));
         beerlist.add(new Beer(7, "Guinness Original"));
         beerlist.add(new Beer(8, "Drygate Apple Ale"));
