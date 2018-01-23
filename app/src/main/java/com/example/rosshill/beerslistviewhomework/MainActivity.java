@@ -8,6 +8,9 @@ import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
 
+//    String img = "Beer";
+//    int beer = R.drawable.beer;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
