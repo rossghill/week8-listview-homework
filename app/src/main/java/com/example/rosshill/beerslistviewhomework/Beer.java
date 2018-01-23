@@ -21,4 +21,9 @@ public class Beer {
     public Integer getRanking() {
         return ranking;
     }
+
+    @Override
+    public String toString() {
+        return this.getName();
+    }
 }
